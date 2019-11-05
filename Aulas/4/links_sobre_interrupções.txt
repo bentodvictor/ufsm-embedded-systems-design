@@ -1,0 +1,15 @@
+Sites:
+1- https://www.embarcados.com.br/arm-cortex-m0/
+
+Documentos:
+1-http://www.armtechforum.com.cn/2012/6_The_Anatomy_of_the_ARM_Cortex-M0.pdf
+2-http://infocenter.arm.com/help/topic/com.arm.doc.ddi0432c/DDI0432C_cortex_m0_r0p0_trm.pdf
+3-http://www.atmel.com/Images/Atmel-42112-SAM-External-Interrupt-Driver-Extint_ApplicationNote_AT03246.pdf
+
+Datasheets:
+SAM R21 - http://www.atmel.com/Images/Atmel-42223%E2%80%93SAM-R21_Datasheet.pdf
+SAM D21 - https://cdn-shop.adafruit.com/product-files/2772/atmel-42181-sam-d21_datasheet.pdf
+SAM D21 - http://ww1.microchip.com/downloads/en/DeviceDoc/40001882A.pdf	
+
+
+
