@@ -1,2 +1,2 @@
-# Projeto-de-Sistemas-Embarcados
-6º Semestre do curso de Engenharia da Computação - UFSM
+# Embedded Systems Design
+Embedded Systems Design material from 6th semester of Computer Engineering - UFSM
