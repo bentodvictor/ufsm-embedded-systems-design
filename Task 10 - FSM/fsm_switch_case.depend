@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1464109311 source:c:\users\avell\onedrive\adjunto\disciplinas\projeto_sistemas_embarcados\aulas\praticas\pratica_12_fsm_sc\fsm_switch_case\fsm_switch_case.c
+	"fsm_switch_case.h"
+	"stdio.h"
+	"string.h"
+
+1464102647 c:\users\avell\onedrive\adjunto\disciplinas\projeto_sistemas_embarcados\aulas\praticas\pratica_12_fsm_sc\fsm_switch_case\fsm_switch_case.h
+	"stdint.h"
+
+1494011891 source:c:\users\avell\onedrive\adjunto\disciplinas\projeto_sistemas_embarcados\aulas\praticas\pratica_12_fsm_sc\fsm_switch_case\main.c
+	<stdlib.h>
+	<stdio.h>
+	"fsm_switch_case.h"
+
